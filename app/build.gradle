@@ -37,4 +37,5 @@ dependencies {
     compile 'junit:junit:4.12'
 
     compile 'com.android.support.constraint:constraint-layout:1.1.2'
+    compile project(path: ':conmonutils')
 }
